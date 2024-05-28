@@ -2,7 +2,7 @@
 title: "metabolomicsProcessingDIY"
 author: 
 - "DeniseSl22"
-- "YourGithubUserName"
+- "isabdelle"
 date: "17/05/24"
 output:
  md_document:
@@ -11,6 +11,9 @@ always_allow_html: true
 ---
 ## Introduction
 In this section of the workflow, we will obtain the metabolomics data and apply filtering options, to create a dataset ready for further statistical and pathway analysis (on Thursday).
+```{r}
+
+```
 
 ## First, we setup the required libraries to get started.
 ```{r setup, warning=FALSE, message=FALSE}
